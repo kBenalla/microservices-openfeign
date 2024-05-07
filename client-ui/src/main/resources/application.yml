@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: client-ui
+
+server:
+  port: 8080
+
+application:
+  config:
+    microservice-product-url: http://localhost:8081
+    microservice-command-url: http://localhost:8082
+    microservice-payment-url: http://localhost:8083

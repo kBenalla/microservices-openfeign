@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: microservice-product
+  datasource:
+    url: jdbc:h2:mem:products-db
+  h2:
+    console:
+      enabled: true
+server:
+  port: 8081

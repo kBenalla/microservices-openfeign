@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: microservice-payment
+  datasource:
+    url: jdbc:h2:mem:payments-db
+  h2:
+    console:
+      enabled: true
+server:
+  port: 8083
