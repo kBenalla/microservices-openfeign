@@ -1,6 +1,7 @@
 # microservices-openfeign
 
-![Client-UI](https://github.com/kBenalla/microservices-openfeign/assets/148463259/c0ae7dcf-d708-4a1c-a253-2f22e1988d72)
+![Client-UI](https://github.com/kBenalla/microservices-openfeign/assets/148463259/a78f8a0c-b725-40e2-b3be-cdb00d744853)
+
 
 1) Demande la liste des produits
 2) Demande les informations sur un produit
